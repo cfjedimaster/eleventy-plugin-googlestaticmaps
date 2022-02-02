@@ -1,0 +1,23 @@
+{
+  "name": "eleventy-plugin-googlestaticmaps",
+  "version": "1.0.0",
+  "description": "An Eleventy plugin to make it easier to use Google Static Maps",
+  "main": ".eleventy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfjedimaster/eleventy-plugin-googlestaticmaps.git"
+  },
+  "keywords": [],
+  "author": {
+    "name":"Raymond Camden",
+    "url":"https://www.raymondcamden.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfjedimaster/eleventy-plugin-googlestaticmaps/issues"
+  },
+  "homepage": "https://github.com/cfjedimaster/eleventy-plugin-googlestaticmaps#readme"
+}
